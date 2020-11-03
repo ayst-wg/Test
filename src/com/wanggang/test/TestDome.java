@@ -1,4 +1,6 @@
-package com.wanggang.test;/**
+package com.wanggang.test;
+
+/**
  * @ClassName : TestDome
  * @Description : TestDome
  * @Author : Administrator
@@ -6,4 +8,7 @@ package com.wanggang.test;/**
  * @Version 1.0
  **/
 public class TestDome {
+    public static void main(String[] args) {
+        System.out.println("Test");
+    }
 }
