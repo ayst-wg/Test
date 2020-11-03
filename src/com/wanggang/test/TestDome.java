@@ -9,6 +9,6 @@ package com.wanggang.test;
  **/
 public class TestDome {
     public static void main(String[] args) {
-        System.out.println("Test");
+        System.out.println("Holle World!");
     }
 }
